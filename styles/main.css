@@ -1,0 +1,60 @@
+main {
+  font-family: "Roboto";
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.post {
+  background: white;
+  width: 60%;
+  margin-bottom: 20px;
+  padding: 20px;
+  float: left;
+}
+
+.post h2 {
+  font-size: 20px;
+  margin: auto;
+  padding: 10px;
+  text-align: left;
+}
+.post img {
+  margin: auto;
+  padding: 10px;
+  display: flex;
+}
+.post p,
+a {
+  font-size: 16px;
+  margin: auto;
+  padding: 10px;
+}
+.post span {
+  color: #999999;
+  font-size: 14px;
+  margin: auto;
+  padding: 10px;
+}
+.post_lateral {
+  background-color: white;
+  width: 30%;
+  margin-bottom: 20px;
+  padding: 20px;
+  float: right;
+}
+
+.post_lateral h2 {
+  font-size: 16px;
+  margin: auto;
+  padding: 10px;
+  text-align: left;
+  background: #d9d9d9;
+}
+
+.post_lateral p,
+a {
+  font-size: 14px;
+  margin: auto;
+  padding: 10px;
+}
